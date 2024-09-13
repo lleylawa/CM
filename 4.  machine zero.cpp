@@ -1,3 +1,4 @@
+//for long double
 #include <iostream>
 using namespace std;
 
@@ -12,3 +13,4 @@ int main() {
     cout<< n <<endl;
     return 0;
 }
+
