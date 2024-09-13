@@ -1,3 +1,4 @@
+//for float
 #include <iostream>
 using namespace std;
 
