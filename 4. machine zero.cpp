@@ -1,3 +1,4 @@
+//for double
 #include <iostream>
 using namespace std;
 
